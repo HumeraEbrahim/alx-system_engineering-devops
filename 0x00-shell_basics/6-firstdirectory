@@ -1,2 +1,4 @@
 #!/bin/bash
- mkdir/tmp/my_first_directory
+/tmp/my_first_directory >> 6-firstdirectory
+
+echo /tmp/my_first_directory
