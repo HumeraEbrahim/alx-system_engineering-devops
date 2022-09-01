@@ -1,0 +1,2 @@
+#!/bin/bash
+chown [options] BETTY[ : GROUP] HELLO
