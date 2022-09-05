@@ -1,1 +1,5 @@
 “Hello, World” World”
+echo “Hello, World” >>  “Hello, World”
+cat  “Hello, World”
+
+echo echo “Hello, World” World”
